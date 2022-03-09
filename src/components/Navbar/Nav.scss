@@ -1,0 +1,25 @@
+.nav-bar {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  margin-bottom: 40px;
+
+  nav {
+    display: flex;
+    margin: 0 50px;
+    padding: 10px;
+
+    h2 {
+      font-size: 40px;
+    }
+  }
+  ul {
+    display: flex;
+  }
+
+  li {
+    margin: 20px 130px;
+    font-size: 20px;
+    list-style-type: none;
+  }
+}

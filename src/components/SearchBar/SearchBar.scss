@@ -1,0 +1,16 @@
+.search-container {
+  margin: 0 auto;
+  height: 250px;
+  width: 500px;
+
+  &__form {
+    display: flex;
+  }
+
+  &__input {
+    height: 50px;
+    width: 250px;
+    font-family: monospace;
+    padding: 10px;
+  }
+}
